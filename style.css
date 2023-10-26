@@ -13,7 +13,7 @@ body {
 }
 header {
     width: 1800px;height: 900px;
-    background: url(images/fon1.png);
+    background: url(images/fon.png);
     background-size: cover;
     background-position: 0 -383px;
     position: relative;
