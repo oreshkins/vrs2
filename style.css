@@ -13,7 +13,7 @@ body {
 }
 header {
     width: 1800px;height: 900px;
-    background: url(/images/fon1.png);
+    background: url(images/fon1.png);
     background-size: cover;
     background-position: 0 -383px;
     position: relative;
@@ -1018,7 +1018,7 @@ header {
 .section4_man1 {
     width: 370px;
     height: 398px;
-    background-image: url(/images/Tom_Jones.png);
+    background-image: url(images/Tom_Jones.png);
     background-repeat: no-repeat;
     background-position: -117px 0;
     background-size: 617px 411px;
@@ -1053,7 +1053,7 @@ header {
 .section4_man2 {
     width: 370px;
     height: 398px;
-    background-image: url(/images/man2.png);
+    background-image: url(images/man2.png);
     background-size: 722px 481px;
     background-position: -160px -79px;
 }
@@ -1119,7 +1119,7 @@ header {
 .section4_man3{
     width: 370px;
     height: 398px;
-    background-image: url(/images/man3.png);
+    background-image: url(images/man3.png);
     background-size: 554px 419px;
     background-position: -139px -18px;
 }
